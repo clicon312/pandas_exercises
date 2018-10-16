@@ -9,11 +9,9 @@ There will be three different types of files:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Solutions with code and comments
 
 My suggestion is that you learn a topic in a tutorial or video and then do exercises.
-Learn one more topic and do exercises. If you got the answer wrong, don't go to the solution with code, follow this [advice](https://github.com/FreeCodeCamp/freecodecamp/wiki/FreeCodeCamp-Get-Help) instead.
+Learn one more topic and do exercises. If you got the answer wrong, don't go directly to the solution with code.
 
-Suggestions and collaborations are more than welcome. :)
-
-In case you want to ask anything you can open issues or write here [![Codewake](https://www.codewake.com/badges/ask_question.svg)](https://www.codewake.com/p/pandas-exercise)
+Suggestions and collaborations are more than welcome. Please open an issue or make a PR. :)
 
 # Lessons
 
@@ -35,7 +33,7 @@ In case you want to ask anything you can open issues or write here [![Codewake](
 [Fictional Army](https://github.com/guipsamora/pandas_exercises/tree/master/02_Filtering_%26_Sorting/Fictional%20Army)
 
 ### [Grouping](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping)
-[Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Alcohol%20Consumption%20)  
+[Alcohol Consumption](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Alcohol_Consumption)  
 [Occupation](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Occupation)  
 [Regiment](https://github.com/guipsamora/pandas_exercises/tree/master/03_Grouping/Regiment)
 
@@ -45,7 +43,8 @@ In case you want to ask anything you can open issues or write here [![Codewake](
 
 ### [Merge](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge)
 [Auto_MPG](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Auto_MPG)  
-[House Market](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Housing%20Market)
+[Fictitious Names](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Fictitous%20Names)  
+[House Market](https://github.com/guipsamora/pandas_exercises/tree/master/05_Merge/Housing%20Market)  
 
 ### [Stats](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats)
 [US_Baby_Names](https://github.com/guipsamora/pandas_exercises/tree/master/06_Stats/US_Baby_Names)  
